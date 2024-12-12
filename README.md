@@ -1,5 +1,5 @@
 # Notas:
-Mi primer programa en NodeJS
+Programa de consola desarrollado en NodeJS que utiliza la librería Yargs, y que genera la tabla de multiplicar según los argumentos recibidos
 
 ```
 Opciones:
